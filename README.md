@@ -1,4 +1,7 @@
-## Hi there 👋 💚
+## 💚 Olá, sou a Líryan Faria.
+Pronomes: ela/dela
+
+Estudo JS, HTML, CSS, React, Next.Js com o objetivo de me tornar front-end.
 
 <!--
 **lliryan/lliryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

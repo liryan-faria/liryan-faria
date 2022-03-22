@@ -1,9 +1,13 @@
 ## 💚 Olá, sou a Líryan Faria.
 Pronomes: ela/dela
 
-Estudo JS, HTML, CSS, React, Next.Js com o objetivo de me tornar front-end, aqui posto alguns projetos que objetivam formar um portfólio.
+Estudo [JS](https://www.javascript.com/), [HTML](https://html.com/), CSS, [React](https://reactjs.org/), [Next.Js](https://nextjs.org/) com o objetivo de me tornar front-end, aqui posto alguns projetos que objetivam formar um portfólio.
 
 [LinkedIn](https://www.linkedin.com/in/l%C3%ADryan-lourdes/)
+
+--
+Mais sobre mim:
+Formada em licenciatura em Filosofia e Letras: Língua Portuguesa e Literatura Brasileira, trabalhei por mais de vinte anos com educação, tanto com gestão de educação em escolas da rede pública e privada como em sala de aula lecionando Filosofia para alunos do ensino médio da rede pública. Não estando mais em atividade na educação passei a buscar me qualificar na área da tecnologia, com linguagem de programação. Amo séries e jogos, gatos, café, pizza, vinho... E busco mudar de carreira para trabalhar com novos desafios e meios, bem como poder conquistar um trabalho "home-office". 
 
 <!--
 **lliryan/lliryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

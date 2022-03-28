@@ -1,7 +1,7 @@
 ## 💚 Olá, sou a Líryan Faria.
 Pronomes: ela/dela
 
-### Estudo [JS](https://www.javascript.com/), [HTML](https://html.com/), [CSS](https://www.w3schools.com/css/css_intro.asp), [React](https://reactjs.org/), [Next.Js](https://nextjs.org/) com o objetivo de me tornar front-end. Também tenho começado a estudar TypeScript, SASS, jQuery por meio dos cursos da [Cod3r](https://www.cod3r.com.br), os quais gosto muito! Aqui posto alguns projetos que objetivam formar um portfólio.
+### Estudo [JavaScript](https://www.javascript.com/), [HTML](https://html.com/), [CSS](https://www.w3schools.com/css/css_intro.asp), [React](https://reactjs.org/), [Next.Js](https://nextjs.org/) com o objetivo de me tornar front-end. Também tenho começado a estudar TypeScript, SASS, jQuery por meio dos cursos da [Cod3r](https://www.cod3r.com.br), os quais gosto muito! Aqui posto alguns projetos que objetivam formar um portfólio.
 
 [LinkedIn](https://www.linkedin.com/in/l%C3%ADryan-lourdes/)
 

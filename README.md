@@ -11,6 +11,17 @@ Pronomes: ela/dela
 Mais sobre mim:
 Formada em licenciatura em Filosofia e Letras: Língua Portuguesa e Literatura Brasileira, trabalhei por mais de vinte anos com educação, tanto com gestão de educação em escolas da rede pública e privada como em sala de aula lecionando Filosofia para alunos do ensino médio da rede pública. Não estando mais em atividade na educação passei a buscar me qualificar na área da tecnologia, com linguagem de programação. Amo séries e jogos, gatos, café, pizza, vinho... E busco mudar de carreira para trabalhar com novos desafios e meios, bem como poder conquistar um trabalho "home-office". 
 
+--
+
+## Stats:
+
+<a href="https://github.com/lliryan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lliryan&show_icons=true&theme=radical" alt="Github status" />
+</a>
+<a href="https://github.com/lliryan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lliryan&layout=compact&theme=radical" />
+</a>
+
 <!--
 **lliryan/lliryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

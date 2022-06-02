@@ -1,7 +1,7 @@
 ## 💚 Olá, sou a Líryan Faria.
 Pronomes: ela/dela
 
-### Frontend Developer: [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [React](https://pt-br.reactjs.org/), [Styled-Components](https://styled-components.com/), [JavaScript](https://www.javascript.com/), [HTML](https://html.com/), [CSS](https://www.w3schools.com/css/css_intro.asp).
+### Frontend Developer Junior: [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [React](https://pt-br.reactjs.org/), [Styled-Components](https://styled-components.com/), [JavaScript](https://www.javascript.com/), [HTML](https://html.com/), [CSS](https://www.w3schools.com/css/css_intro.asp).
 Aqui no Gith posto projetos que constituem parte do meu portfólio.
 
 [LinkedIn](https://www.linkedin.com/in/l%C3%ADryan-lourdes/)

@@ -16,6 +16,7 @@ Pronomes: ela/dela
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liryan-faria&layout=compact&theme=radical" />
 </a>
 
+
 💚
 
 Um pouco mais sobre mim:

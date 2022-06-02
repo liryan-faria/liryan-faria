@@ -16,11 +16,11 @@ Formada em licenciatura em Filosofia e Letras: Língua Portuguesa e Literatura B
 
 ## Stats:
 
-<a href="https://github.com/lliryan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lliryan&show_icons=true&theme=radical" alt="Github status" />
+<a href="https://github.com/liryan-faria">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=liryan-faria&show_icons=true&theme=radical" alt="Github status" />
 </a>
-<a href="https://github.com/lliryan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lliryan&layout=compact&theme=radical" />
+<a href="https://github.com/liryan-faria">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liryan-faria&layout=compact&theme=radical" />
 </a>
 
 <!--

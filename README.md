@@ -6,12 +6,9 @@ Pronomes: ela/dela
 
 [LinkedIn](https://www.linkedin.com/in/líryan-lourdes/)
 
---
-
 [Vercel](https://vercel.com/liryan-faria)
 
-
---
+💚
 
 ## Stats:
 
@@ -19,12 +16,12 @@ Pronomes: ela/dela
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liryan-faria&layout=compact&theme=radical" />
 </a>
 
---
+💚
 
 Um pouco mais sobre mim:
 Sou formada em licenciatura em Filosofia e Letras: Língua Portuguesa e Literatura Brasileira, trabalhei por mais de vinte anos com educação, tanto com gestão de educação em escolas da rede pública e privada como em sala de aula lecionando Filosofia para alunos do ensino médio da rede pública. Não estando mais em atividade na educação passei a buscar me qualificar na área da tecnologia, com linguagem de programação. Amo séries e jogos, gatos, café, pizza, vinho... E busco mudar de carreira para trabalhar com novos desafios e meios, bem como poder conquistar um trabalho "home-office". 
 
---
+💚
 
 ### Abaixo, um pouco dos meus trabalhos mais simples no github pages.
 

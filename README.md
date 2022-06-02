@@ -1,15 +1,12 @@
 ## 💚 Olá, sou a Líryan Faria.
 Pronomes: ela/dela
 
-<p align='center'>
-### Frontend Developer Junior: [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [React](https://pt-br.reactjs.org/), [Styled-Components](https://styled-components.com/), [JavaScript](https://www.javascript.com/), [HTML](https://html.com/), [CSS](https://www.w3schools.com/css/css_intro.asp).
-</p>
 
-<p align='center'>  
-  <a href="[https://www.linkedin.com/in/líryan-lourdes/]">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
+### Frontend Developer Junior: [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [React](https://pt-br.reactjs.org/), [Styled-Components](https://styled-components.com/), [JavaScript](https://www.javascript.com/), [HTML](https://html.com/), [CSS](https://www.w3schools.com/css/css_intro.asp).
+
+
+<a href="[https://www.linkedin.com/in/líryan-lourdes/]">
+
 
 --
 
@@ -24,6 +21,8 @@ Formada em licenciatura em Filosofia e Letras: Língua Portuguesa e Literatura B
 <a href="https://github.com/liryan-faria">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liryan-faria&layout=compact&theme=radical" />
 </a>
+
+## Abaixo, um pouco do meu trabalho.
 
 
 

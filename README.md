@@ -1,7 +1,8 @@
 ## 💚 Olá, sou a Líryan Faria.
 Pronomes: ela/dela
 
-### Estudo [JavaScript](https://www.javascript.com/), [HTML](https://html.com/), [CSS](https://www.w3schools.com/css/css_intro.asp), [React](https://reactjs.org/), [Next.Js](https://nextjs.org/) com o objetivo de me tornar front-end. Também tenho começado a estudar TypeScript, SASS e jQuery. Aqui posto alguns projetos que objetivam formar um portfólio.
+### Frontend Developer: [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [React](https://pt-br.reactjs.org/), [Styled-Components](https://styled-components.com/), [JavaScript](https://www.javascript.com/), [HTML](https://html.com/), [CSS](https://www.w3schools.com/css/css_intro.asp).
+Aqui no Gith posto projetos que constituem parte do meu portfólio.
 
 [LinkedIn](https://www.linkedin.com/in/l%C3%ADryan-lourdes/)
 

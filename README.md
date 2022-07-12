@@ -6,6 +6,8 @@
 
 ### Skills: [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [React](https://pt-br.reactjs.org/), [Styled-Components](https://styled-components.com/), [CSS Modules](https://developer.adobe.com/commerce/pwa-studio/guides/general-concepts/css-modules/), [Tailwind CSS](https://tailwindcss.com/), [JavaScript](https://www.javascript.com/), [HTML](https://html.com/), [CSS](https://www.w3schools.com/css/css_intro.asp).
 
+#### Knowledge: [Node](https://nodejs.org/en/), [jQuery](https://api.jquery.com/), [Gulp](https://gulpjs.com/), [Webpack](https://webpack.js.org/).
+
 #### [LinkedIn](https://www.linkedin.com/in/líryan-lourdes/)
 
 

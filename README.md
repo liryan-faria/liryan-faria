@@ -8,7 +8,7 @@
 
 #### Knowledge: [Node](https://nodejs.org/en/), [jQuery](https://api.jquery.com/), [Gulp](https://gulpjs.com/), [Webpack](https://webpack.js.org/), [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/).
 
-#### [LinkedIn](https://www.linkedin.com/in/líryan-lourdes/)
+#### [LinkedIn](https://www.linkedin.com/in/liryan-faria/)
 
 
 💚

@@ -1,4 +1,4 @@
-## 💚 Olá, sou a Líryan Faria.
+## 💚 Olá! Seja uma pessoa bem vinda neste 'espaço-git'. Líryan, prazer!
 *Pronomes: ela/dela*
 
 

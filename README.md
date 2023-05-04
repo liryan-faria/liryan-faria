@@ -6,7 +6,7 @@
 
 ### Skills: [HTML](https://html.com/), [CSS](https://www.w3schools.com/css/css_intro.asp), [JavaScript](https://www.javascript.com/), [React](https://pt-br.reactjs.org/), [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [MJML](https://mjml.io/), [CSS Modules](https://developer.adobe.com/commerce/pwa-studio/guides/general-concepts/css-modules/), [Stitches](https://stitches.dev/), [Tailwind CSS](https://tailwindcss.com/), [Styled-Components](https://styled-components.com/), [Radix](https://www.radix-ui.com/).
 
-#### Knowledge: [PHP] (https://www.php.net/), [Node](https://nodejs.org/en/), [jQuery](https://api.jquery.com/), [Gulp](https://gulpjs.com/), [Webpack](https://webpack.js.org/), [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/), [MUI](https://mui.com/pt/).
+#### Knowledge: [PHP](https://www.php.net/), [Node](https://nodejs.org/en/), [jQuery](https://api.jquery.com/), [Gulp](https://gulpjs.com/), [Webpack](https://webpack.js.org/), [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/), [MUI](https://mui.com/pt/).
 
 #### [LinkedIn](https://www.linkedin.com/in/liryan-faria/)
 

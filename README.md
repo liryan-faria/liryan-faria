@@ -13,14 +13,6 @@
 
 💚
 
-## Stats:
-
-<a href="https://github.com/liryan-faria">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liryan-faria&layout=compact&theme=radical" />
-</a>
-
-💚
-
 ### Um pouco mais sobre mim:
 
 *Possuo licenciatura em Filosofia e Letras: Língua Portuguesa e Literatura Brasileira, tendo trabalhado por mais de vinte anos com educação. Com experiência em gestão de educação em escolas da rede pública e privada e em salas de aulas lecionando Filosofia para alunos do ensino médio da rede pública. Não estando mais em atividade na educação passei a buscar me qualificar na área da tecnologia, com linguagem de programação. Amo séries e jogos, gatos, café, pizza, vinho... E busco mudar de carreira para trabalhar com novos desafios e meios, bem como poder conquistar um trabalho "home-office".*
